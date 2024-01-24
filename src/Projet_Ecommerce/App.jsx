@@ -21,7 +21,7 @@ export default function App(props) {
          <Header  />
         <Routes>
        
-          <Route path="/" index element={<Index  />} />
+          <Route path="/ecommerceApp-ReactJS-Redux" index element={<Index  />} />
           <Route path="/Account"  element={<Account  />} />
           <Route path="/Produite/:id"  element={<Produite  />} />
           <Route path="/Cart"  element={<Cart_Product  />} />
