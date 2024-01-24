@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "fullName": "oussama issri",
+      "Country": "Azrou"
+    },
+    {
+      "id": 2,
+      "fullName": "adam bekri",
+      "Country": "Ifrane"
+    },
+    {
+      "id": 3,
+      "fullName": "hamada monir",
+      "Country": "Azrou"
+    },
+    {
+      "id": 5,
+      "fullName": "sdfs",
+      "Country": "Imouzate"
+    },
+    {
+      "id": 6,
+      "fullName": "hhh",
+      "Country": "Ifrane"
+    }
+  ]
+}
