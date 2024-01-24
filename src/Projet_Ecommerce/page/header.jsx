@@ -18,7 +18,7 @@ export default function Header(props) {
         <header className='bg-white'>
         
             <div className='part2_header'>
-                <nav className='nav_logo'><Link to='/' > <img src={logo_without_bg} alt="" width={150} /></Link></nav>
+                <nav className='nav_logo'><Link to='/ecommerceApp-ReactJS-Redux' > <img src={logo_without_bg} alt="" width={150} /></Link></nav>
                 <nav className='nav_input_search'><input onChange={(e)=>setvalueSearch(e.target.value)}  type="search" className='input_search' placeholder='Search products, brands and categories' autoComplete='on' /> <button className='btn_search' onClick={handlerSearch} ><FontAwesomeIcon icon={faMagnifyingGlass} /> SEARCH</button></nav>
              <nav className='nav_Account'><Link to='/Account' ><FontAwesomeIcon icon={faUser} /> Account</Link></nav>
                 <nav className='nav_Help'> <Link><FontAwesomeIcon icon={faQuestion} /> Help</Link>  </nav>

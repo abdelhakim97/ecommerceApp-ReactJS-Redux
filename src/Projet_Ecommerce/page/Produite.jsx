@@ -27,7 +27,7 @@ export default function Produite(props) {
         () => {
             if (!produit) {
                 // If produit is undefined, handle the loading state or redirect to an error page.
-                navigate('/')
+                navigate('/ecommerceApp-ReactJS-Redux')
             }
         }, [produit, navigate]
     )
