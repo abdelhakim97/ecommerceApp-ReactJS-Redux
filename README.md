@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-#### Live Preview : [https://admin-ecommerce.herokuapp.com/](https://abdelhakim97.github.io/ecommerceApp-ReactJS-Redux/)
+#### Live Preview :https://abdelhakim97.github.io/ecommerceApp-ReactJS-Redux/
 
 
 ## Available Scripts
