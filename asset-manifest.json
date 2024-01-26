@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ecommerceApp-ReactJS-Redux/static/css/main.34457b0d.css",
+    "main.js": "/ecommerceApp-ReactJS-Redux/static/js/main.b9057494.js",
+    "static/media/pc2.jpg": "/ecommerceApp-ReactJS-Redux/static/media/pc2.07dbe4d3c1f54ccdf4c9.jpg",
+    "static/media/wallpaperflare.com_wallpaper (19).jpg": "/ecommerceApp-ReactJS-Redux/static/media/wallpaperflare.com_wallpaper (19).0a6044843d6173acb144.jpg",
+    "static/media/pc1.jpg": "/ecommerceApp-ReactJS-Redux/static/media/pc1.c335fe5ecb19e8b68bf5.jpg",
+    "static/media/logo_without_bg.png": "/ecommerceApp-ReactJS-Redux/static/media/logo_without_bg.5a0321d646b8f794e1e1.png",
+    "static/media/Google__G__logo.svg.png": "/ecommerceApp-ReactJS-Redux/static/media/Google__G__logo.svg.b2571f1fce8c422235c2.png",
+    "static/media/qIufhof.png": "/ecommerceApp-ReactJS-Redux/static/media/qIufhof.12c901efd9128a3959cc.png",
+    "static/media/facebook.png": "/ecommerceApp-ReactJS-Redux/static/media/facebook.eb86f5e8798c340281d8.png",
+    "static/media/Logo_of_Twitter.svg.png": "/ecommerceApp-ReactJS-Redux/static/media/Logo_of_Twitter.svg.1dc47282cde389383976.png",
+    "index.html": "/ecommerceApp-ReactJS-Redux/index.html",
+    "main.34457b0d.css.map": "/ecommerceApp-ReactJS-Redux/static/css/main.34457b0d.css.map",
+    "main.b9057494.js.map": "/ecommerceApp-ReactJS-Redux/static/js/main.b9057494.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34457b0d.css",
+    "static/js/main.b9057494.js"
+  ]
+}
