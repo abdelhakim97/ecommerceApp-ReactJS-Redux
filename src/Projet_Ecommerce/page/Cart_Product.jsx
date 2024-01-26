@@ -63,7 +63,7 @@ export default function Cart_Product(props) {
                 <main className='No_items p-4'>
                     <FontAwesomeIcon icon={faShop} style={{ fontSize: '150px', color: 'rgba(199, 199, 199, 0.671)' }} /> <br /><br />
                     <h3>No items yet? Continue shopping to explore more.</h3> <br />
-                    <Link to='/' >  <button id='btn_Explore_items'>Explore items</button></Link >
+                    <Link to='/ecommerceApp-ReactJS-Redux' >  <button id='btn_Explore_items'>Explore items</button></Link >
                 </main>
 
             ) : (<main className='div_list_pro p-4'>
